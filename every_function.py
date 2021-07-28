@@ -1,5 +1,5 @@
-"""This program uses all the functions and methods
-the chapter 3 of the Python Crash Course covers"""
+# This program uses all the functions and methods that
+# the chapter 3 of the Python Crash Course covers
 
 random_words = ["java", "windows", "git", "linux", "css", "html", "go"]
 random_words.append("macos")

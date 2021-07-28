@@ -1,5 +1,5 @@
-"""This program uses some places around the 
-world to showcase how to orginize a list"""
+# This program uses some places around the
+# world to showcase how to orginize a list
 
 places = ["san francisco", "new zeland", "vancouver", "australia", "cancún"]
 print(f"This is the original order of the list:\n\t{places}")
